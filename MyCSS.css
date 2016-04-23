@@ -1,0 +1,53 @@
+
+.left{
+    text-align: left;
+}
+#left{
+    text-align: left;
+}
+body{
+    /* This is Comment */
+    background-color : lightblue;
+}
+h1{
+    font-family: "Comic Sans MS";
+    color: background;
+    text-align: center;
+}
+h2{
+    font-family: "Times new roman";
+    color: blue;
+    text-align: left;
+}
+p{
+    font-size: 20px;
+    color: red;
+}
+
+#header{
+    background-color: green;
+    color: white;
+    text-align: left;
+    padding: 5px;
+}
+#nav{
+   line-height: 30px;
+   background-color: #eeeeee;
+   height: 300px;
+   width: 200px;
+   float: left;
+   padding: 5px;
+}
+#section{
+    width: 550px;
+    float: left;
+    padding:10px;
+}
+#footer{
+    background-color: lightseagreen;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+}
+
